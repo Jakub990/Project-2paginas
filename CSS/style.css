@@ -1,18 +1,24 @@
-a{
+.Headernav a {
     text-decoration: none;
     text-align: right;
     color: black;
     font-size: 20px;
+    margin-top: 30px;
     margin-right: 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-     display: inline-block;
+    display: inline-block;
 }
-h1{
+
+
+
+.h3J {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+    margin-left: 400px;
 }
-nav {
+
+.Headernav {
     position: absolute;
     top: 0;
     right: 0;
@@ -20,12 +26,153 @@ nav {
     padding: 10px 0 0 10px;
 }
 
-p{
+.pJ {
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
+    margin-left: 300px;
+    font-size: small;
 
 }
-body{
+
+body {
     background-color: lightgrey;
     margin: 0px;
 }
 
+.plaatjeJakub {
+    margin-left: 130px;
+    position: absolute;
+    top: 130px;
+    height: 200px;
+    width: 250px;
+}
+
+.pJ2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    margin-left: 400px;
+    font-size: small;
+}
+
+.TextJ {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    margin-left: 300px;
+    font-size: small;
+}
+
+.plaatjeJakub2 {
+    position: relative;
+    left: 300px;
+   
+
+}
+
+.TextJ2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    margin-left: 300px;
+    font-size: small;
+
+}
+
+.keuzendelen {
+    display: block;
+    margin-left: 300px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.PlaatjeJakub3 {
+    margin-left: 300px;
+}
+
+.modules-heading {
+    text-align: right;
+    position: relative;
+    top: -675px;
+    right: 340px;
+    margin-right: 40px;
+    margin-top: 20px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.modules-paragraph {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -670px;
+    right: 340px;
+    margin-right: 40px;
+    margin-top: 20px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.modules-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 40px;
+    gap: 6px;
+    position: relative;
+    top: -680px;
+    right: 340px;
+    margin-right: 40px;
+    margin-top: 20px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.modules-list a {
+    text-decoration: none;
+    color: rgb(0, 115, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.PlaatjeJakub4 {
+    position: relative;
+    left: 900px;
+    top: -650px;
+
+
+}
+
+.PlaatjeJakub5 {
+    position: relative;
+    left: 900px;
+    top: -650px;
+
+}
+
+.TextJ3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: small;
+    position: relative;
+    left: 900px;
+    top: -650px;
+}
+header {
+    background-color: white;
+}
+.PlaatjeJakub6 {
+position: relative;
+left: 550px;
+top: -50px;
+}
+.PlaatjeJakub7{
+    margin-left: 130px;
+    position: absolute;
+    top: 500px;
+    height: 200px;
+    width: 250px;
+}
