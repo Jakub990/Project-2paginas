@@ -64,7 +64,7 @@ body {
 .plaatjeJakub2 {
     position: relative;
     left: 300px;
-   
+
 
 }
 
@@ -120,7 +120,6 @@ body {
     flex-direction: column;
     align-items: flex-end;
     margin-right: 40px;
-    gap: 6px;
     position: relative;
     top: -680px;
     right: 340px;
@@ -129,6 +128,7 @@ body {
     font-size: small;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
+    gap : 5px; 
 }
 
 .modules-list a {
@@ -141,7 +141,7 @@ body {
 .PlaatjeJakub4 {
     position: relative;
     left: 900px;
-    top: -650px;
+    top: -640px;
 
 
 }
@@ -161,18 +161,48 @@ body {
     left: 900px;
     top: -650px;
 }
+
 header {
     background-color: white;
 }
+
 .PlaatjeJakub6 {
-position: relative;
-left: 550px;
-top: -50px;
+    position: relative;
+    left: 550px;
+    top: -50px;
 }
-.PlaatjeJakub7{
+
+.PlaatjeJakub7 {
     margin-left: 130px;
     position: absolute;
     top: 500px;
     height: 200px;
     width: 250px;
+}
+.Modules {
+ margin-left: 10px;
+
+}
+.Modules-imgJ {
+   position: relative;
+    left: 900px; 
+    top: -900px;
+   height: 35vh;
+}
+.modulesplaatje {
+    position: absolute;
+    left : 900px;
+    top: 200px;
+    height:30vh
+}
+.moduleR {
+    position: relative;
+    left:800px;
+}
+.moduleR2 {
+    position: relative;
+    top:20px;
+    left:-300px;
+    text-align: center;
+    margin-bottom: 10px;
 }
