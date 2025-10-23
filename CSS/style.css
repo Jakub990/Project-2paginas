@@ -180,21 +180,11 @@ header {
     width: 250px;
 }
 .Modules {
- margin-left: 10px;
+text-align: right;
+margin-right: 10px;
+font-weight: bold;
+}
 
-}
-.Modules-imgJ {
-   position: relative;
-    left: 900px; 
-    top: -900px;
-   height: 35vh;
-}
-.modulesplaatje {
-    position: absolute;
-    left : 900px;
-    top: 200px;
-    height:30vh
-}
 .moduleR {
     position: relative;
     left:800px;
@@ -205,4 +195,40 @@ header {
     left:-300px;
     text-align: center;
     margin-bottom: 10px;
+}
+
+.TextJ4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: medium;
+    margin-left: 100px;
+}
+.ScrumJ {
+margin-left: 150px;
+}
+.BrugerschapJ {
+height: 20vh;
+width: 30vw;
+margin-left: 10px;
+}
+.brugerschapJT {
+ margin-left:10px;
+}
+.DatabaseT {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
+.webdevColumn {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin:10px;
+
+}
+.webdevC{
+   display: flex;
+   align-items: center;
+   text-align: center;
+   flex-direction: column;
 }
