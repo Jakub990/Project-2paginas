@@ -93,7 +93,7 @@ body {
 .modules-heading {
     text-align: right;
     position: relative;
-    top: -675px;
+    top: -700px;
     right: 340px;
     margin-right: 40px;
     margin-top: 20px;
@@ -106,7 +106,7 @@ body {
     margin: 0;
     padding: 0;
     position: relative;
-    top: -670px;
+    top: -690px;
     right: 340px;
     margin-right: 40px;
     margin-top: 20px;
@@ -121,7 +121,7 @@ body {
     align-items: flex-end;
     margin-right: 40px;
     position: relative;
-    top: -680px;
+    top: -685px;
     right: 340px;
     margin-right: 40px;
     margin-top: 20px;
@@ -141,14 +141,14 @@ body {
 .PlaatjeJakub4 {
     position: relative;
     left: 900px;
-    top: -640px;
+    top: -710px;
 
 
 }
 
 .PlaatjeJakub5 {
     position: relative;
-    left: 900px;
+    left: 930px;
     top: -650px;
 
 }
@@ -158,7 +158,7 @@ body {
     font-style: normal;
     font-size: small;
     position: relative;
-    left: 900px;
+    left: 930px;
     top: -650px;
 }
 
@@ -185,9 +185,8 @@ margin-right: 10px;
 font-weight: bold;
 }
 
-.moduleR {
-    position: relative;
-    left:800px;
+.ModuleR {
+    margin: 10px;
 }
 .moduleR2 {
     position: relative;
@@ -231,4 +230,11 @@ margin-left: 10px;
    align-items: center;
    text-align: center;
    flex-direction: column;
+}
+.Modules-imgJ {
+   position: relative;
+    top:-1000px;
+    width: 20vw;
+    height: 30vh;
+    left:100px;
 }
